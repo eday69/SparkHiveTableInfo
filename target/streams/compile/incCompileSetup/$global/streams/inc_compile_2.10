@@ -1,0 +1,234 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ubuntu/spark-application2/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/Record$.class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/Record.class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$$anonfun$1.class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$$anonfun$2.class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$$typecreator2$1.class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$.class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp.class
+binary dependencies:
+5 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-2.0.0.jar
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.0.0.jar
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Record
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Record$
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SpHiveApp
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SpHiveApp$
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SpHiveApp$$anonfun$1
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SpHiveApp$$anonfun$2
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SpHiveApp$$typecreator2$1
+used names:
+129 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> !=
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> $m
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> $m$untyped
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> $typecreator2
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> $u
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> &&
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> <init>
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> <repeated>
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> ==
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> ?0
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> A
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> AbstractFunction2
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Any
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> AnyRef
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Array
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> B
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Boolean
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Builder
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> CanBuildFrom
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Class
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> ClassLoader
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> ClassSymbol
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Coll
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> DataFrame
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Dataset
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Encoder
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> File
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Function1
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Inclusive
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> IndexOutOfBoundsException
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> IndexedSeq
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Int
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Iterator
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> JavaUniverse
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> MatchError
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Mirror
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> None
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Nothing
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Object
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Option
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Predef
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Product
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Range
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Record
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> RichInt
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Row
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> ScalaRunTime
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Seq
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Serializable
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Singleton
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Some
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SpHiveApp
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> SparkSession
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Statics
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> String
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> StringContext
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> T
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> T0
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> T1
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> T2
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> That
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Tuple2
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Type
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> TypeCreator
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> TypeSymbol
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> TypeTag
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> U
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Unit
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> Universe
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> _toString
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> anyHash
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> apache
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> appName
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> apply
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> asInstanceOf
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> asType
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> builder
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> canBuildFrom
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> config
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> createDataFrame
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> createOrReplaceTempView
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> enableHiveSupport
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> eq
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> finalizeHash
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> get
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> getAbsolutePath
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> getClass
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> getClassLoader
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> getOrCreate
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> i
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> id_str
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> immutable
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> implicits
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> intWrapper
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> io
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> isEmpty
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> isInstanceOf
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> java
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> key
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> lengthCompare
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> map
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> materializeTypeTag
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> mix
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> newStringEncoder
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> org
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> package
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> recordsDF
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> reflect
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> runtime
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> runtimeMirror
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> s
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> scala
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> show
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> spark
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> sql
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> sqlDF
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> staticClass
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> stringsDS
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> text
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> to
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> toString
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> toTypeConstructor
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> typedProductIterator
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> unapplySeq
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> unary_!
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> universe
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> value
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> warehouseLocation
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> ||
+product stamps:
+7 items
+/home/ubuntu/spark-application2/target/scala-2.10/classes/Record$.class -> lastModified(1502040602000)
+/home/ubuntu/spark-application2/target/scala-2.10/classes/Record.class -> lastModified(1502040602000)
+/home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$$anonfun$1.class -> lastModified(1502040602000)
+/home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$$anonfun$2.class -> lastModified(1502040602000)
+/home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$$typecreator2$1.class -> lastModified(1502040602000)
+/home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$.class -> lastModified(1502040602000)
+/home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp.class -> lastModified(1502040602000)
+source stamps:
+1 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> hash(91bf96a3edaadd47a8b9bf168063474580b14dd9)
+binary stamps:
+5 items
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-2.0.0.jar -> lastModified(1468969591000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.0.0.jar -> lastModified(1468969809000)
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> lastModified(1395179187000)
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> lastModified(1395179222000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+5 items
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-2.0.0.jar -> org.apache.spark.sql.Encoder
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-2.0.0.jar -> org.apache.spark.sql.SQLImplicits
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.runtime.AbstractFunction2
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6CYVqAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxthrQXQABm5vdGlmeXNxAH4ADN/Efd10AAR3YWl0c3EAfgAMYhL053QADmNvcHkkZGVmYXVsdCQyc3EAfgAMtfC24nQADSRhc0luc3RhbmNlT2ZzcQB+AAz8rO34dAAMcHJvZHVjdEFyaXR5c3EAfgAMU5vrR3QABmVxdWFsc3NxAH4ADEX36CZ0AAlTcEhpdmVBcHBzcQB+AAy/MYJCdAAMYXNJbnN0YW5jZU9mc3EAfgAM8QLRp3QADHN5bmNocm9uaXplZHNxAH4ADF2Il+B0AA0kaXNJbnN0YW5jZU9mc3EAfgAM75ocxnQACGNhbkVxdWFsc3EAfgAMY5ZRuHQABG1haW5zcQB+AAx03xchdAANcHJvZHVjdFByZWZpeHNxAH4ADGCJyvR0AAlub3RpZnlBbGxzcQB+AAzOjG4vdAADa2V5c3EAfgAMsHncwXQADGlzSW5zdGFuY2VPZnNxAH4ADLAyKYp0AAY8aW5pdD5zcQB+AAyDeuVHdAACPT1zcQB+AAz8T/xhdAAGUmVjb3Jkc3EAfgAMJP6GM3QABWNsb25lc3EAfgAMfmnkTnQABiRpbml0JHNxAH4ADKTjHhN0AARjb3B5c3EAfgAMIbo3rHQACHRvU3RyaW5nc3EAfgAMnDj3WHQAAiE9c3EAfgAMa0v/6XQACGdldENsYXNzc3EAfgAM3Jd0pHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMYWF5tnQAAm5lc3EAfgAMkDOGLXQABXZhbHVlc3EAfgAMyOXopXQAAmVxc3EAfgAMmfkBwnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBXXtol0AAIjI3NxAH4ADGt6/d50AAhmaW5hbGl6ZXNxAH4ADIIvj3B0AA5wcm9kdWN0RWxlbWVudHNxAH4ADJyTrrp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AM3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgByc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4Ad3NxAH4AcnVxAH4AVgAAAABzcQB+AHJ1cQB+AFYAAAAAc3EAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB2dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHV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
+external apis:
+0 items
+source infos:
+1 items
+/home/ubuntu/spark-application2/src/main/scala/SpHiveTest1.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXbhcvDl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3VidW50dS9zcGFyay1hcHBsaWNhdGlvbjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXbhePmF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3VidW50dS9zcGFyay1hcHBsaWNhdGlvbjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXbh0nuR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3VidW50dS9zcGFyay1hcHBsaWNhdGlvbjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXbiYpHx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL3VidW50dS9zcGFyay1hcHBsaWNhdGlvbjIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
