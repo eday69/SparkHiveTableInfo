@@ -1,1 +1,7 @@
-[0m[[0mdebug[0m] [0mJar uptodate: /home/ubuntu/spark-application2/target/scala-2.10/spark-word-count_2.10-1.0.jar[0m
+[0m[[0minfo[0m] [0mPackaging /home/ubuntu/spark-application2/target/scala-2.10/sparkhive-sql-tester_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SpHiveApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp.class[0m
+[0m[[0mdebug[0m] [0m	SpHiveApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/spark-application2/target/scala-2.10/classes/SpHiveApp$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

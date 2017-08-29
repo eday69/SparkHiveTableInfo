@@ -1,6 +1,12 @@
-name := "Spark Word Count"
+name := "SparkHive Sql tester"
 version := "1.0"
-scalaVersion := "2.10.4"
-libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.0.0" % "provided"
+scalaVersion := "2.10.5"
+val sparkVersion = "1.6.0"
 
+javacOptions ++= Seq("-source", "1.8", "-target", "1.8")
+scalacOptions += "-deprecation"
+
+libraryDependencies += "org.apache.spark" %% "spark-hive" % sparkVersion
+libraryDependencies += "org.apache.spark" % "spark-core_2.10" % sparkVersion
+libraryDependencies += "org.apache.spark" % "spark-sql_2.10" % sparkVersion
 

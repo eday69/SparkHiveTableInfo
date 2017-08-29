@@ -1,0 +1,43 @@
+import java.io.File
+import org.apache.spark.sql
+import org.apache.spark.sql.Row
+import org.apache.spark.sql.hive
+
+import org.apache.spark.SparkContext
+import org.apache.spark.SparkConf
+
+//case class Record(key: Int, value: String)
+
+object SpHiveApp {
+
+  def main(args: Array[String]) {
+
+  // warehouseLocation points to the default location for managed databases and tables
+  //val warehouseLocation = new File("spark-warehouse").getAbsolutePath
+  val conf = new SparkConf()
+  val sc = new SparkContext(conf)
+  val sqlContext = new org.apache.spark.sql.hive.HiveContext(sc)
+
+
+import sqlContext.implicits._
+
+// The results of SQL queries are themselves DataFrames and support all normal functions.
+val sqlDF = sqlContext.sql("SELECT id_str, text FROM twext limit 10")
+
+// The items in DataFrames are of type Row, which allows you to access each column by ordinal.
+//val stringsDS = sqlDF.map {
+//  case Row(id_str: String, text: String) => s"Key: $id_str, Value: $text"
+//}
+//val stringsDS = sqlDF.map({ case Row(id_str: String, text: String) => s"Key: $id_str, Value: $text" } )
+//stringsDS.show()
+
+sqlDF.show()
+
+
+// You can also use DataFrames to create temporary views within a SparkSession.
+//val recordsDF = spark.createDataFrame((1 to 100).map(i => Record(i, s"val_$i")))
+//recordsDF.createOrReplaceTempView("records")
+
+  }
+}
+
