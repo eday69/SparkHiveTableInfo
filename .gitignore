@@ -1,6 +1,6 @@
 # exclude
 /project
 /target
-sprkwrdcnt2.old
-src/main/scala/SpHiveTest1.scala.old
+/sprkwrdcnt2.old
+/src/main/scala/SpHiveTest1.scala.old
 
